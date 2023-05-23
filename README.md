@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:open_file_folder: Проекты:
+:sparkles: Проекты: :sparkles:
 1. [Модель линейной регрессии для прогнозирования затрат клиентов в E-commerce продукте](https://github.com/nsvyat/linear_regression_e-commerce)<br>
   Стек: Python (pandas, sklearn, seaborn, pylab, scipy)<br>
 2. [Анализ рекламных кампаний](https://github.com/nsvyat/marketing_analysis)<br>
