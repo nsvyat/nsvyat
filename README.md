@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 :sparkles: Проекты: :sparkles:
-1. [Модель линейной регрессии для прогнозирования затрат клиентов в E-commerce продукте](https://github.com/nsvyat/linear_regression_e-commerce)<br>
+
+:star2: 1. [Модель линейной регрессии для прогнозирования затрат клиентов в E-commerce продукте](https://github.com/nsvyat/linear_regression_e-commerce)<br>
   Стек: Python (pandas, sklearn, seaborn, pylab, scipy)<br>
-2. [Анализ рекламных кампаний](https://github.com/nsvyat/marketing_analysis)<br>
+:star2: 2. [Анализ рекламных кампаний](https://github.com/nsvyat/marketing_analysis)<br>
   Стек: Python(pandas, numpy, matplotlib, plotly), SQL<br>
-3. [Анализ данных YouTube канала](https://github.com/nsvyat/youtube-videos-analysis)<br>
+:star2: 3. [Анализ данных YouTube канала](https://github.com/nsvyat/youtube-videos-analysis)<br>
   Стек: Google Cloud APIs, Python (pandas, matplotlib, seaborn)<br>
+:star2: 4. [Дашборд по результатам опроса](https://github.com/nsvyat/survey_breakdown)<br>
+Стек: Power BI<br>
 <br>
 <br>
 
