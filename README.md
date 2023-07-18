@@ -12,7 +12,7 @@
 Стек: Power BI<br>
 <br>
 <br>
-
+<!--
 <div id="badges">
   <a href="https://t.me/nsvyat">
     <img src="https://img.shields.io/badge/-Telegram-5b92e5?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
